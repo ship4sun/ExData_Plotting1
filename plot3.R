@@ -12,9 +12,9 @@ legend("topright",
        c("Sub_metering_1", "Sub_metering_2", "Sub_metering_3"),
        lty=1)
 
-# Thurseday = "¸ñ"
-# Friday = "±Ý"
-# Saterday = "Åä"
+# Thurseday = "ëª©"
+# Friday = "ê¸ˆ"
+# Saterday = "í† "
 
 #Save through clicking, 'Plots', 'Export' and 'Save as an Image'.
 #You can adjust size at the window console. 
