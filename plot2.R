@@ -4,9 +4,9 @@ with(data,
           ylab="Global Active Power (kilowatts)", 
           type="l"))
 
-# Thurseday = "¸ñ"
-# Friday = "±Ý"
-# Saterday = "Åä"
+# Thurseday = "ëª©"
+# Friday = "ê¸ˆ"
+# Saterday = "í† "
 
 #Save through clicking, 'Plots', 'Export' and 'Save as an Image'.
 #You can adjust size at the window console. 
